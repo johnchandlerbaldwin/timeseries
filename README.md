@@ -1,6 +1,8 @@
 # timeseries
 Kaggle Time Series Competition - Completed Notebook
 
+(Available on Kaggle here - better option than GitHub as the links still work: https://www.kaggle.com/code/johncbaldwin/time-series-nb/)
+
 
 In this notebook, I create a predictive model to predict sales for a Kaggle competition about predicting sales for a chain of grocery stores in Ecuador: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
 
